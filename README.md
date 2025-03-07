@@ -24,7 +24,7 @@ Open [http://localhost:8000/docs](http://localhost:8000/docs) to view the Swagge
 # Key project skills:
 
 - HTTP Requests
-- Data Validation
+- Pydantic Data Validation
 - Exception Handling 
 - Status Codes
 - Swagger Configuration
